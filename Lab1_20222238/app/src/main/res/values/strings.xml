@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Lab1_20222238</string>
+    <string name="btn_jugar">Jugar</string>
+    <string name="hint_nombre">Ingresar Nombre</string>
+    <string name="titulo_bienvenido">APPSIoT - Lab 1\nBienvenido</string>
+    <string name="seleccione_tematica">Seleccione una temática:</string>
+    <string name="temas_title">Temas</string>
+    <string name="nuevo_juego">Nuevo Juego</string>
+    <string name="comodin">Comodín</string>
+    <string name="estadisticas">Estadísticas</string>
+    <string-array name="tematicas">
+        <item>Ciberseguridad</item>
+        <item>Redes</item>
+        <item>Fibra Óptica</item>
+    </string-array>
 </resources>
